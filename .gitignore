@@ -1,0 +1,15 @@
+# API keys and other secrets
+.env
+
+# Python virtual environment
+venv/
+
+# Downloaded BEIR/Natural Questions data
+datasets/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
